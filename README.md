@@ -40,8 +40,7 @@ The objective is to analyze how rooting affects device integrity and application
 - Build Type: Emulator userdebug
 - Root Access: Enabled via ADB
 
-<img width="648" height="116" alt="1" src="https://github.com/user-attachments/assets/d19dff7d-c0f1-4999-9f54-2c86298b548d" />
-<img width="648" height="116" alt="1" src="https://github.com/user-attachments/assets/7dcfd64f-1251-48ca-a5ce-71cbb6562942" />
+
 
 ```
 
